@@ -1,0 +1,3490 @@
+{
+  "Version": 79,
+  "ExpressionProfiles": [
+    {
+      "Type": "Enzyme",
+      "Species": "Human",
+      "Molecule": "CYP3A4",
+      "Category": "European (P-gp modified, CYP3A4 36 h)",
+      "Parameters": [
+        {
+          "Path": "CYP3A4|Reference concentration",
+          "Value": 4.32,
+          "Unit": "µmol/l"
+        },
+        {
+          "Path": "CYP3A4|t1/2 (intestine)",
+          "Value": 23.0,
+          "Unit": "h"
+        },
+        {
+          "Path": "CYP3A4|t1/2 (liver)",
+          "Value": 36.0,
+          "Unit": "h",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Organism|Brain|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0041682898325
+        },
+        {
+          "Path": "Organism|Gonads|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.00078691079081
+        },
+        {
+          "Path": "Organism|Kidney|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0053603428126
+        },
+        {
+          "Path": "Organism|Liver|Pericentral|Intracellular|CYP3A4|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|Liver|Periportal|Intracellular|CYP3A4|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|Lung|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.00042695753798
+        },
+        {
+          "Path": "Organism|SmallIntestine|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0727697702
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|Duodenum|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0727697702
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|LowerIleum|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0727697702
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|LowerJejunum|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0727697702
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|UpperIleum|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0727697702
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|UpperJejunum|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0727697702
+        }
+      ],
+      "Localization": "Intracellular, BloodCellsIntracellular, VascEndosome",
+      "Ontogeny": {
+        "Name": "CYP3A4"
+      }
+    },
+    {
+      "Type": "Enzyme",
+      "Species": "Human",
+      "Molecule": "AADAC",
+      "Category": "European (P-gp modified, CYP3A4 36 h)",
+      "Parameters": [
+        {
+          "Path": "AADAC|Reference concentration",
+          "Value": 1.0,
+          "Unit": "µmol/l"
+        },
+        {
+          "Path": "AADAC|Relative expression in blood cells",
+          "Value": 3.9102564103E-05
+        },
+        {
+          "Path": "AADAC|Relative expression in plasma",
+          "Value": 3.9102564103E-05
+        },
+        {
+          "Path": "AADAC|t1/2 (intestine)",
+          "Value": 23.0,
+          "Unit": "h"
+        },
+        {
+          "Path": "AADAC|t1/2 (liver)",
+          "Value": 36.0,
+          "Unit": "h"
+        },
+        {
+          "Path": "Organism|Bone|Intracellular|AADAC|Relative expression",
+          "Value": 4.8717948718E-05
+        },
+        {
+          "Path": "Organism|Brain|Intracellular|AADAC|Relative expression",
+          "Value": 3.9743589744E-05
+        },
+        {
+          "Path": "Organism|Gonads|Intracellular|AADAC|Relative expression",
+          "Value": 0.0011923076923
+        },
+        {
+          "Path": "Organism|Heart|Intracellular|AADAC|Relative expression",
+          "Value": 0.0026602564103
+        },
+        {
+          "Path": "Organism|Kidney|Intracellular|AADAC|Relative expression",
+          "Value": 5.7051282051E-05
+        },
+        {
+          "Path": "Organism|LargeIntestine|Intracellular|AADAC|Relative expression",
+          "Value": 0.00010384615385
+        },
+        {
+          "Path": "Organism|LargeIntestine|Mucosa|ColonAscendens|Intracellular|AADAC|Relative expression",
+          "Value": 0.00010384615385
+        },
+        {
+          "Path": "Organism|LargeIntestine|Mucosa|ColonDescendens|Intracellular|AADAC|Relative expression",
+          "Value": 0.00010384615385
+        },
+        {
+          "Path": "Organism|LargeIntestine|Mucosa|ColonSigmoid|Intracellular|AADAC|Relative expression",
+          "Value": 0.00010384615385
+        },
+        {
+          "Path": "Organism|LargeIntestine|Mucosa|ColonTransversum|Intracellular|AADAC|Relative expression",
+          "Value": 0.00010384615385
+        },
+        {
+          "Path": "Organism|Liver|Pericentral|Intracellular|AADAC|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|Liver|Periportal|Intracellular|AADAC|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|Lung|Intracellular|AADAC|Relative expression",
+          "Value": 0.0269230769
+        },
+        {
+          "Path": "Organism|Muscle|Intracellular|AADAC|Relative expression",
+          "Value": 0.00020833333333
+        },
+        {
+          "Path": "Organism|Pancreas|Intracellular|AADAC|Relative expression",
+          "Value": 0.1474358974
+        },
+        {
+          "Path": "Organism|SmallIntestine|Intracellular|AADAC|Relative expression",
+          "Value": 0.2544871795
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|Duodenum|Intracellular|AADAC|Relative expression",
+          "Value": 0.2544871795
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|LowerIleum|Intracellular|AADAC|Relative expression",
+          "Value": 0.2544871795
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|LowerJejunum|Intracellular|AADAC|Relative expression",
+          "Value": 0.2544871795
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|UpperIleum|Intracellular|AADAC|Relative expression",
+          "Value": 0.2544871795
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|UpperJejunum|Intracellular|AADAC|Relative expression",
+          "Value": 0.2544871795
+        },
+        {
+          "Path": "Organism|Spleen|Intracellular|AADAC|Relative expression",
+          "Value": 0.00037115384615
+        },
+        {
+          "Path": "Organism|Stomach|Intracellular|AADAC|Relative expression",
+          "Value": 0.0775641026
+        }
+      ],
+      "Localization": "Intracellular, BloodCellsIntracellular, VascEndosome"
+    },
+    {
+      "Type": "Transporter",
+      "Species": "Human",
+      "Molecule": "P-gp",
+      "Category": "European (P-gp modified, CYP3A4 36 h)",
+      "Parameters": [
+        {
+          "Path": "Organism|Bone|Intracellular|P-gp|Relative expression",
+          "Value": 0.0242518189
+        },
+        {
+          "Path": "Organism|Brain|Intracellular|P-gp|Relative expression",
+          "Value": 0.07608904
+        },
+        {
+          "Path": "Organism|Gonads|Intracellular|P-gp|Relative expression",
+          "Value": 0.017417973
+        },
+        {
+          "Path": "Organism|Heart|Intracellular|P-gp|Relative expression",
+          "Value": 0.0419198106
+        },
+        {
+          "Path": "Organism|Kidney|Intracellular|P-gp|Relative expression",
+          "Value": 0.7092198582
+        },
+        {
+          "Path": "Organism|LargeIntestine|Intracellular|P-gp|Relative expression",
+          "Value": 0.1108416465
+        },
+        {
+          "Path": "Organism|LargeIntestine|Mucosa|ColonAscendens|Intracellular|P-gp|Relative expression",
+          "Value": 0.3971631206
+        },
+        {
+          "Path": "Organism|LargeIntestine|Mucosa|ColonDescendens|Intracellular|P-gp|Relative expression",
+          "Value": 0.3971631206
+        },
+        {
+          "Path": "Organism|LargeIntestine|Mucosa|ColonSigmoid|Intracellular|P-gp|Relative expression",
+          "Value": 0.3971631206
+        },
+        {
+          "Path": "Organism|LargeIntestine|Mucosa|ColonTransversum|Intracellular|P-gp|Relative expression",
+          "Value": 0.3971631206
+        },
+        {
+          "Path": "Organism|Liver|Pericentral|Intracellular|P-gp|Relative expression",
+          "Value": 0.1916810428
+        },
+        {
+          "Path": "Organism|Liver|Periportal|Intracellular|P-gp|Relative expression",
+          "Value": 0.1916810428
+        },
+        {
+          "Path": "Organism|Lung|Intracellular|P-gp|Relative expression",
+          "Value": 0.0657549316
+        },
+        {
+          "Path": "Organism|Muscle|Intracellular|P-gp|Relative expression",
+          "Value": 0.0128342959
+        },
+        {
+          "Path": "Organism|Pancreas|Intracellular|P-gp|Relative expression",
+          "Value": 0.0142510689
+        },
+        {
+          "Path": "Organism|SmallIntestine|Intracellular|P-gp|Relative expression",
+          "Value": 0.2808543974
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|Duodenum|Intracellular|P-gp|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|LowerIleum|Intracellular|P-gp|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|LowerJejunum|Intracellular|P-gp|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|UpperIleum|Intracellular|P-gp|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|UpperJejunum|Intracellular|P-gp|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|Spleen|Intracellular|P-gp|Relative expression",
+          "Value": 0.0742555691
+        },
+        {
+          "Path": "Organism|Stomach|Intracellular|P-gp|Relative expression",
+          "Value": 0.0260852897
+        },
+        {
+          "Path": "P-gp|Reference concentration",
+          "Value": 1.41,
+          "Unit": "µmol/l",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "P-gp|t1/2 (intestine)",
+          "Value": 23.0,
+          "Unit": "h"
+        },
+        {
+          "Path": "P-gp|t1/2 (liver)",
+          "Value": 36.0,
+          "Unit": "h"
+        }
+      ],
+      "TransportType": "Efflux",
+      "Expression": [
+        {
+          "Name": "Bone",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Brain",
+          "TransportDirection": "EffluxBrainInterstitialToPlasma",
+          "CompartmentName": "Plasma"
+        },
+        {
+          "Name": "Brain",
+          "TransportDirection": "EffluxBrainTissueToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Fat",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Gonads",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Heart",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Kidney",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Kidney",
+          "TransportDirection": "ExcretionKidney",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Stomach",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "SmallIntestine",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Duodenum",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Duodenum",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "UpperJejunum",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "UpperJejunum",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "LowerJejunum",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "LowerJejunum",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "UpperIleum",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "UpperIleum",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "LowerIleum",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "LowerIleum",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "LargeIntestine",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Caecum",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Caecum",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "ColonAscendens",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "ColonAscendens",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "ColonTransversum",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "ColonTransversum",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "ColonDescendens",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "ColonDescendens",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "ColonSigmoid",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "ColonSigmoid",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Rectum",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Rectum",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Periportal",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Periportal",
+          "TransportDirection": "ExcretionLiver",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Pericentral",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Pericentral",
+          "TransportDirection": "ExcretionLiver",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Lung",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Muscle",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Pancreas",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Skin",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Spleen",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "BloodCells",
+          "TransportDirection": "EffluxBloodCellsToPlasma"
+        },
+        {
+          "Name": "VascularEndothelium",
+          "TransportDirection": "EffluxInterstitialToPlasma"
+        }
+      ],
+      "Ontogeny": {
+        "Name": "P-gp",
+        "Table": {
+          "Name": "TableFormula",
+          "Percentile": 0.0,
+          "DistributionMetaData": [
+            {
+              "Mean": 1E-14,
+              "Deviation": 1.6,
+              "Distribution": "LogNormal"
+            },
+            {
+              "Mean": 1.915059E-05,
+              "Deviation": 1.6,
+              "Distribution": "LogNormal"
+            },
+            {
+              "Mean": 5.486795E-05,
+              "Deviation": 1.6,
+              "Distribution": "LogNormal"
+            },
+            {
+              "Mean": 0.0001571905,
+              "Deviation": 1.6,
+              "Distribution": "LogNormal"
+            },
+            {
+              "Mean": 0.0004502473,
+              "Deviation": 1.6,
+              "Distribution": "LogNormal"
+            },
+            {
+              "Mean": 0.001288958,
+              "Deviation": 1.6,
+              "Distribution": "LogNormal"
+            },
+            {
+              "Mean": 0.00368424,
+              "Deviation": 1.6,
+              "Distribution": "LogNormal"
+            },
+            {
+              "Mean": 0.01048397,
+              "Deviation": 1.6,
+              "Distribution": "LogNormal"
+            },
+            {
+              "Mean": 0.02946235,
+              "Deviation": 1.6,
+              "Distribution": "LogNormal"
+            },
+            {
+              "Mean": 0.0800178,
+              "Deviation": 1.6,
+              "Distribution": "LogNormal"
+            },
+            {
+              "Mean": 0.1994918,
+              "Deviation": 1.6,
+              "Distribution": "LogNormal"
+            },
+            {
+              "Mean": 0.4165768,
+              "Deviation": 1.6,
+              "Distribution": "LogNormal"
+            },
+            {
+              "Mean": 0.6716791,
+              "Deviation": 1.6,
+              "Distribution": "LogNormal"
+            },
+            {
+              "Mean": 0.8542612,
+              "Deviation": 1.6,
+              "Distribution": "LogNormal"
+            },
+            {
+              "Mean": 0.943803,
+              "Deviation": 1.6,
+              "Distribution": "LogNormal"
+            },
+            {
+              "Mean": 0.9796414,
+              "Deviation": 1.6,
+              "Distribution": "LogNormal"
+            },
+            {
+              "Mean": 0.992799,
+              "Deviation": 1.6,
+              "Distribution": "LogNormal"
+            },
+            {
+              "Mean": 0.9974749,
+              "Deviation": 1.6,
+              "Distribution": "LogNormal"
+            },
+            {
+              "Mean": 0.9991173,
+              "Deviation": 1.6,
+              "Distribution": "LogNormal"
+            },
+            {
+              "Mean": 0.9996917,
+              "Deviation": 1.6,
+              "Distribution": "LogNormal"
+            },
+            {
+              "Mean": 0.9998924,
+              "Deviation": 1.6,
+              "Distribution": "LogNormal"
+            },
+            {
+              "Mean": 0.9999624,
+              "Deviation": 1.6,
+              "Distribution": "LogNormal"
+            },
+            {
+              "Mean": 0.9999869,
+              "Deviation": 1.6,
+              "Distribution": "LogNormal"
+            },
+            {
+              "Mean": 1.0,
+              "Deviation": 1.6,
+              "Distribution": "LogNormal"
+            }
+          ],
+          "XName": "Postmenstrual age",
+          "XDimension": "Age in years",
+          "XUnit": "year(s)",
+          "YName": "P-gp",
+          "YDimension": "Fraction",
+          "UseDerivedValues": false,
+          "Points": [
+            {
+              "X": 0.0,
+              "Y": 1E-14,
+              "RestartSolver": false
+            },
+            {
+              "X": 0.08333334,
+              "Y": 1.915059E-05,
+              "RestartSolver": false
+            },
+            {
+              "X": 0.1666667,
+              "Y": 5.486795E-05,
+              "RestartSolver": false
+            },
+            {
+              "X": 0.25,
+              "Y": 0.0001571905,
+              "RestartSolver": false
+            },
+            {
+              "X": 0.3333333,
+              "Y": 0.0004502473,
+              "RestartSolver": false
+            },
+            {
+              "X": 0.4166667,
+              "Y": 0.001288958,
+              "RestartSolver": false
+            },
+            {
+              "X": 0.5,
+              "Y": 0.00368424,
+              "RestartSolver": false
+            },
+            {
+              "X": 0.5833333,
+              "Y": 0.01048397,
+              "RestartSolver": false
+            },
+            {
+              "X": 0.6666667,
+              "Y": 0.02946235,
+              "RestartSolver": false
+            },
+            {
+              "X": 0.75,
+              "Y": 0.0800178,
+              "RestartSolver": false
+            },
+            {
+              "X": 0.8333333,
+              "Y": 0.1994918,
+              "RestartSolver": false
+            },
+            {
+              "X": 0.9166667,
+              "Y": 0.4165768,
+              "RestartSolver": false
+            },
+            {
+              "X": 1.0,
+              "Y": 0.6716791,
+              "RestartSolver": false
+            },
+            {
+              "X": 1.083333,
+              "Y": 0.8542612,
+              "RestartSolver": false
+            },
+            {
+              "X": 1.166667,
+              "Y": 0.943803,
+              "RestartSolver": false
+            },
+            {
+              "X": 1.25,
+              "Y": 0.9796414,
+              "RestartSolver": false
+            },
+            {
+              "X": 1.333333,
+              "Y": 0.992799,
+              "RestartSolver": false
+            },
+            {
+              "X": 1.416667,
+              "Y": 0.9974749,
+              "RestartSolver": false
+            },
+            {
+              "X": 1.5,
+              "Y": 0.9991173,
+              "RestartSolver": false
+            },
+            {
+              "X": 1.583333,
+              "Y": 0.9996917,
+              "RestartSolver": false
+            },
+            {
+              "X": 1.666667,
+              "Y": 0.9998924,
+              "RestartSolver": false
+            },
+            {
+              "X": 1.75,
+              "Y": 0.9999624,
+              "RestartSolver": false
+            },
+            {
+              "X": 1.833333,
+              "Y": 0.9999869,
+              "RestartSolver": false
+            },
+            {
+              "X": 3.333333,
+              "Y": 1.0,
+              "RestartSolver": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "Type": "Transporter",
+      "Species": "Human",
+      "Molecule": "OATP1B1",
+      "Category": "European (P-gp modified, CYP3A4 36 h)",
+      "Parameters": [
+        {
+          "Path": "OATP1B1|Reference concentration",
+          "Value": 1.0,
+          "Unit": "µmol/l"
+        },
+        {
+          "Path": "OATP1B1|t1/2 (intestine)",
+          "Value": 23.0,
+          "Unit": "h"
+        },
+        {
+          "Path": "OATP1B1|t1/2 (liver)",
+          "Value": 36.0,
+          "Unit": "h"
+        },
+        {
+          "Path": "Organism|Brain|Intracellular|OATP1B1|Relative expression",
+          "Value": 0.00014166666667
+        },
+        {
+          "Path": "Organism|Gonads|Intracellular|OATP1B1|Relative expression",
+          "Value": 0.0141666667
+        },
+        {
+          "Path": "Organism|Heart|Intracellular|OATP1B1|Relative expression",
+          "Value": 0.0008253968254
+        },
+        {
+          "Path": "Organism|Liver|Pericentral|Intracellular|OATP1B1|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|Liver|Periportal|Intracellular|OATP1B1|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|Lung|Intracellular|OATP1B1|Relative expression",
+          "Value": 4.0079365079E-05
+        },
+        {
+          "Path": "Organism|Muscle|Intracellular|OATP1B1|Relative expression",
+          "Value": 0.00064682539683
+        }
+      ],
+      "TransportType": "Influx",
+      "Expression": [
+        {
+          "Name": "Bone",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Brain",
+          "TransportDirection": "InfluxBrainPlasmaToInterstitial",
+          "CompartmentName": "Plasma"
+        },
+        {
+          "Name": "Brain",
+          "TransportDirection": "InfluxBrainInterstitialToTissue",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Fat",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Gonads",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Heart",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Kidney",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Kidney",
+          "TransportDirection": "ExcretionKidney",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Stomach",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "SmallIntestine",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Duodenum",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Duodenum",
+          "TransportDirection": "InfluxLumenToMucosaIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "UpperJejunum",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "UpperJejunum",
+          "TransportDirection": "InfluxLumenToMucosaIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "LowerJejunum",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "LowerJejunum",
+          "TransportDirection": "InfluxLumenToMucosaIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "UpperIleum",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "UpperIleum",
+          "TransportDirection": "InfluxLumenToMucosaIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "LowerIleum",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "LowerIleum",
+          "TransportDirection": "InfluxLumenToMucosaIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "LargeIntestine",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Caecum",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Caecum",
+          "TransportDirection": "InfluxLumenToMucosaIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "ColonAscendens",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "ColonAscendens",
+          "TransportDirection": "InfluxLumenToMucosaIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "ColonTransversum",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "ColonTransversum",
+          "TransportDirection": "InfluxLumenToMucosaIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "ColonDescendens",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "ColonDescendens",
+          "TransportDirection": "InfluxLumenToMucosaIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "ColonSigmoid",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "ColonSigmoid",
+          "TransportDirection": "InfluxLumenToMucosaIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Rectum",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Rectum",
+          "TransportDirection": "InfluxLumenToMucosaIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Periportal",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Periportal",
+          "TransportDirection": "ExcretionLiver",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Pericentral",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Pericentral",
+          "TransportDirection": "ExcretionLiver",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Lung",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Muscle",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Pancreas",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Skin",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Spleen",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "BloodCells",
+          "TransportDirection": "InfluxPlasmaToBloodCells"
+        },
+        {
+          "Name": "VascularEndothelium",
+          "TransportDirection": "InfluxPlasmaToInterstitial"
+        }
+      ]
+    },
+    {
+      "Type": "OtherProtein",
+      "Species": "Human",
+      "Molecule": "ATP1A2",
+      "Category": "European (P-gp modified, CYP3A4 36 h)",
+      "Parameters": [
+        {
+          "Path": "ATP1A2|Reference concentration",
+          "Value": 0.39140774,
+          "Unit": "µmol/l",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "ATP1A2|t1/2 (intestine)",
+          "Value": 23.0,
+          "Unit": "h"
+        },
+        {
+          "Path": "ATP1A2|t1/2 (liver)",
+          "Value": 36.0,
+          "Unit": "h"
+        },
+        {
+          "Path": "Organism|Bone|Intracellular|ATP1A2|Relative expression",
+          "Value": 0.0062154033171
+        },
+        {
+          "Path": "Organism|Brain|Intracellular|ATP1A2|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|Gonads|Intracellular|ATP1A2|Relative expression",
+          "Value": 0.0508741242
+        },
+        {
+          "Path": "Organism|Heart|Intracellular|ATP1A2|Relative expression",
+          "Value": 0.3179118843
+        },
+        {
+          "Path": "Organism|Kidney|Intracellular|ATP1A2|Relative expression",
+          "Value": 0.0158938619
+        },
+        {
+          "Path": "Organism|LargeIntestine|Intracellular|ATP1A2|Relative expression",
+          "Value": 0.0786998764
+        },
+        {
+          "Path": "Organism|LargeIntestine|Mucosa|ColonAscendens|Intracellular|ATP1A2|Relative expression",
+          "Value": 0.0786998764
+        },
+        {
+          "Path": "Organism|LargeIntestine|Mucosa|ColonDescendens|Intracellular|ATP1A2|Relative expression",
+          "Value": 0.0786998764
+        },
+        {
+          "Path": "Organism|LargeIntestine|Mucosa|ColonSigmoid|Intracellular|ATP1A2|Relative expression",
+          "Value": 0.0786998764
+        },
+        {
+          "Path": "Organism|LargeIntestine|Mucosa|ColonTransversum|Intracellular|ATP1A2|Relative expression",
+          "Value": 0.0786998764
+        },
+        {
+          "Path": "Organism|Liver|Pericentral|Intracellular|ATP1A2|Relative expression",
+          "Value": 0.0223784807
+        },
+        {
+          "Path": "Organism|Liver|Periportal|Intracellular|ATP1A2|Relative expression",
+          "Value": 0.0223784807
+        },
+        {
+          "Path": "Organism|Lung|Intracellular|ATP1A2|Relative expression",
+          "Value": 0.0272345453
+        },
+        {
+          "Path": "Organism|Muscle|Intracellular|ATP1A2|Relative expression",
+          "Value": 0.7034193524
+        },
+        {
+          "Path": "Organism|Pancreas|Intracellular|ATP1A2|Relative expression",
+          "Value": 0.0073903254795
+        },
+        {
+          "Path": "Organism|Skin|Intracellular|ATP1A2|Relative expression",
+          "Value": 0.0389467988
+        },
+        {
+          "Path": "Organism|SmallIntestine|Intracellular|ATP1A2|Relative expression",
+          "Value": 0.0501579923
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|Duodenum|Intracellular|ATP1A2|Relative expression",
+          "Value": 0.0501579923
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|LowerIleum|Intracellular|ATP1A2|Relative expression",
+          "Value": 0.0501579923
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|LowerJejunum|Intracellular|ATP1A2|Relative expression",
+          "Value": 0.0501579923
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|UpperIleum|Intracellular|ATP1A2|Relative expression",
+          "Value": 0.0501579923
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|UpperJejunum|Intracellular|ATP1A2|Relative expression",
+          "Value": 0.0501579923
+        },
+        {
+          "Path": "Organism|Spleen|Intracellular|ATP1A2|Relative expression",
+          "Value": 0.0103243118
+        },
+        {
+          "Path": "Organism|Stomach|Intracellular|ATP1A2|Relative expression",
+          "Value": 0.0309435884
+        }
+      ],
+      "Localization": "Interstitial, BloodCellsMembrane, VascMembranePlasmaSide"
+    },
+    {
+      "Type": "Enzyme",
+      "Species": "Human",
+      "Molecule": "UGT1A4",
+      "Category": "European (P-gp modified, CYP3A4 36 h)",
+      "Parameters": [
+        {
+          "Path": "Organism|Liver|Pericentral|Intracellular|UGT1A4|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|Liver|Periportal|Intracellular|UGT1A4|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "UGT1A4|Reference concentration",
+          "Value": 2.32,
+          "Unit": "µmol/l",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "UGT1A4|t1/2 (intestine)",
+          "Value": 23.0,
+          "Unit": "h"
+        },
+        {
+          "Path": "UGT1A4|t1/2 (liver)",
+          "Value": 36.0,
+          "Unit": "h"
+        }
+      ],
+      "Localization": "Intracellular, BloodCellsIntracellular, VascEndosome",
+      "Ontogeny": {
+        "Name": "UGT1A4"
+      }
+    },
+    {
+      "Type": "OtherProtein",
+      "Species": "Human",
+      "Molecule": "GABRG2",
+      "Category": "European (P-gp modified, CYP3A4 36 h)",
+      "Parameters": [
+        {
+          "Path": "GABRG2|Reference concentration",
+          "Value": 1.04099689,
+          "Unit": "µmol/l",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "GABRG2|t1/2 (intestine)",
+          "Value": 23.0,
+          "Unit": "h"
+        },
+        {
+          "Path": "GABRG2|t1/2 (liver)",
+          "Value": 36.0,
+          "Unit": "h"
+        },
+        {
+          "Path": "Organism|Brain|Intracellular|GABRG2|Relative expression",
+          "Value": 1.0
+        }
+      ],
+      "Localization": "Interstitial, BloodCellsMembrane, VascMembranePlasmaSide"
+    },
+    {
+      "Type": "Enzyme",
+      "Species": "Human",
+      "Molecule": "CYP2C9",
+      "Category": "European (P-gp modified, CYP3A4 36 h)",
+      "Parameters": [
+        {
+          "Path": "CYP2C9|Reference concentration",
+          "Value": 3.84,
+          "Unit": "µmol/l"
+        },
+        {
+          "Path": "CYP2C9|t1/2 (intestine)",
+          "Value": 1380.0,
+          "Unit": "min"
+        },
+        {
+          "Path": "CYP2C9|t1/2 (liver)",
+          "Value": 6240.0,
+          "Unit": "min"
+        },
+        {
+          "Path": "Organism|Brain|Intracellular|CYP2C9|Relative expression",
+          "Value": 0.00039687350455
+        },
+        {
+          "Path": "Organism|Gonads|Intracellular|CYP2C9|Relative expression",
+          "Value": 4.5940341362E-05
+        },
+        {
+          "Path": "Organism|Kidney|Intracellular|CYP2C9|Relative expression",
+          "Value": 0.0018822778753
+        },
+        {
+          "Path": "Organism|Liver|Pericentral|Intracellular|CYP2C9|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|Liver|Periportal|Intracellular|CYP2C9|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|Lung|Intracellular|CYP2C9|Relative expression",
+          "Value": 0.0002131121391
+        },
+        {
+          "Path": "Organism|SmallIntestine|Intracellular|CYP2C9|Relative expression",
+          "Value": 0.1199553358
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|Duodenum|Intracellular|CYP2C9|Relative expression",
+          "Value": 0.1199553358
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|LowerIleum|Intracellular|CYP2C9|Relative expression",
+          "Value": 0.1199553358
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|LowerJejunum|Intracellular|CYP2C9|Relative expression",
+          "Value": 0.1199553358
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|UpperIleum|Intracellular|CYP2C9|Relative expression",
+          "Value": 0.1199553358
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|UpperJejunum|Intracellular|CYP2C9|Relative expression",
+          "Value": 0.1199553358
+        }
+      ],
+      "Localization": "Intracellular",
+      "Ontogeny": {
+        "Name": "CYP2C9"
+      }
+    },
+    {
+      "Type": "Enzyme",
+      "Species": "Human",
+      "Molecule": "CYP2C19",
+      "Category": "European (P-gp modified, CYP3A4 36 h)",
+      "Parameters": [
+        {
+          "Path": "CYP2C19|Reference concentration",
+          "Value": 0.76,
+          "Unit": "µmol/l"
+        },
+        {
+          "Path": "CYP2C19|t1/2 (intestine)",
+          "Value": 1380.0,
+          "Unit": "min"
+        },
+        {
+          "Path": "CYP2C19|t1/2 (liver)",
+          "Value": 1560.0,
+          "Unit": "min"
+        },
+        {
+          "Path": "Organism|Brain|Intracellular|CYP2C19|Relative expression",
+          "Value": 0.00014961101137
+        },
+        {
+          "Path": "Organism|Gonads|Intracellular|CYP2C19|Relative expression",
+          "Value": 0.0003526545268
+        },
+        {
+          "Path": "Organism|Kidney|Intracellular|CYP2C19|Relative expression",
+          "Value": 0.00015816021202
+        },
+        {
+          "Path": "Organism|Liver|Pericentral|Intracellular|CYP2C19|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|Liver|Periportal|Intracellular|CYP2C19|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|Lung|Intracellular|CYP2C19|Relative expression",
+          "Value": 0.00040608703086
+        },
+        {
+          "Path": "Organism|SmallIntestine|Intracellular|CYP2C19|Relative expression",
+          "Value": 0.3238009746
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|Duodenum|Intracellular|CYP2C19|Relative expression",
+          "Value": 0.3238009746
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|LowerIleum|Intracellular|CYP2C19|Relative expression",
+          "Value": 0.3238009746
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|LowerJejunum|Intracellular|CYP2C19|Relative expression",
+          "Value": 0.3238009746
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|UpperIleum|Intracellular|CYP2C19|Relative expression",
+          "Value": 0.3238009746
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|UpperJejunum|Intracellular|CYP2C19|Relative expression",
+          "Value": 0.3238009746
+        }
+      ],
+      "Localization": "Intracellular",
+      "Ontogeny": {
+        "Name": "CYP2C19"
+      }
+    }
+  ],
+  "Individuals": [
+    {
+      "Name": "European (P-gp modified, CYP3A4 36 h)",
+      "Seed": 17189110,
+      "OriginData": {
+        "CalculationMethods": [
+          "SurfaceAreaPlsInt_VAR1",
+          "Body surface area - Mosteller"
+        ],
+        "Species": "Human",
+        "Population": "European_ICRP_2002",
+        "Gender": "MALE",
+        "Age": {
+          "Value": 30.0,
+          "Unit": "year(s)"
+        }
+      },
+      "Parameters": [
+        {
+          "Path": "Organism|Liver|EHC continuous fraction",
+          "Value": 1.0,
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        }
+      ],
+      "ExpressionProfiles": [
+        "CYP3A4|Human|European (P-gp modified, CYP3A4 36 h)",
+        "AADAC|Human|European (P-gp modified, CYP3A4 36 h)",
+        "P-gp|Human|European (P-gp modified, CYP3A4 36 h)",
+        "OATP1B1|Human|European (P-gp modified, CYP3A4 36 h)",
+        "ATP1A2|Human|European (P-gp modified, CYP3A4 36 h)",
+        "UGT1A4|Human|European (P-gp modified, CYP3A4 36 h)",
+        "GABRG2|Human|European (P-gp modified, CYP3A4 36 h)",
+        "CYP2C9|Human|European (P-gp modified, CYP3A4 36 h)",
+        "CYP2C19|Human|European (P-gp modified, CYP3A4 36 h)"
+      ]
+    }
+  ],
+  "Compounds": [
+    {
+      "Name": "Erythromycin",
+      "IsSmallMolecule": true,
+      "Lipophilicity": [
+        {
+          "Name": "Literature (average value)",
+          "Parameters": [
+            {
+              "Name": "Lipophilicity",
+              "Value": 2.82,
+              "Unit": "Log Units",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from 'Parameter Identification 1' on 2020-01-13 15:01"
+              }
+            }
+          ]
+        }
+      ],
+      "FractionUnbound": [
+        {
+          "Name": "Barre 1987",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "Fraction unbound (plasma, reference value)",
+              "Value": 0.305,
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "InVivo",
+                "Description": "PMID: 3606934"
+              }
+            }
+          ]
+        }
+      ],
+      "Solubility": [
+        {
+          "Name": "Erythromycin stearate film-coated tablet",
+          "Parameters": [
+            {
+              "Name": "Solubility at reference pH",
+              "Value": 28.0708790976,
+              "Unit": "mg/l",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from '003 - BP conc ratio FIX' on 2019-11-14 14:43"
+              }
+            },
+            {
+              "Name": "Reference pH",
+              "Value": 7.0,
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from '001' on 2019-10-01 13:46"
+              }
+            }
+          ]
+        },
+        {
+          "Name": "Erythromycin base enteric coated pellets",
+          "IsDefault": false,
+          "Parameters": [
+            {
+              "Name": "Solubility at reference pH",
+              "Value": 500.0,
+              "Unit": "mg/l",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from '001' on 2019-10-01 13:46"
+              }
+            },
+            {
+              "Name": "Reference pH",
+              "Value": 7.0,
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from '001' on 2019-10-01 13:46"
+              }
+            }
+          ]
+        },
+        {
+          "Name": "Erythromycin lactobionate",
+          "IsDefault": false,
+          "Parameters": [
+            {
+              "Name": "Solubility at reference pH",
+              "Value": 200.0,
+              "Unit": "mg/ml",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "InVitro",
+                "Description": "Hoffhine, Jr Charles E. \"Aqueous soluble salts of erythromycin.\" U.S. Patent 2,761,859, issued September 4, 1956. "
+              }
+            },
+            {
+              "Name": "Reference pH",
+              "Value": 7.0,
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "InVitro",
+                "Description": "Hoffhine, Jr Charles E. \"Aqueous soluble salts of erythromycin.\" U.S. Patent 2,761,859, issued September 4, 1956. "
+              }
+            }
+          ]
+        },
+        {
+          "Name": "Erythromycin base enteric coated tablet",
+          "IsDefault": false,
+          "Parameters": [
+            {
+              "Name": "Solubility at reference pH",
+              "Value": 8.3990771997,
+              "Unit": "mg/l",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from 'Parameter Identification 1' on 2020-01-13 15:01"
+              }
+            },
+            {
+              "Name": "Reference pH",
+              "Value": 7.0
+            }
+          ]
+        }
+      ],
+      "IntestinalPermeability": [
+        {
+          "Name": "Fitted",
+          "Parameters": [
+            {
+              "Name": "Specific intestinal permeability (transcellular)",
+              "Value": 0.00038668371665,
+              "Unit": "cm/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from 'Parameter Identification 1' on 2020-01-13 15:01"
+              }
+            }
+          ]
+        }
+      ],
+      "PkaTypes": [
+        {
+          "Type": "Base",
+          "Pka": 8.88,
+          "ValueOrigin": {
+            "Source": "Publication",
+            "Method": "Unknown",
+            "Description": "PMID: 9135031"
+          }
+        }
+      ],
+      "Processes": [
+        {
+          "InternalName": "MetabolizationLiverMicrosomes_MM",
+          "DataSource": "Biotransformation_fitted",
+          "Molecule": "CYP3A4",
+          "Parameters": [
+            {
+              "Name": "In vitro Vmax for liver microsomes",
+              "Value": 918.33333,
+              "Unit": "pmol/min/mg mic. protein",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "InVitro",
+                "Description": "PMID: 9566442"
+              }
+            },
+            {
+              "Name": "Km",
+              "Value": 70.0,
+              "Unit": "µM",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "InVitro",
+                "Description": "Average of reported values in the literature (PMID: 9107550 and PMID: 9566442)"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "GlomerularFiltration",
+          "DataSource": "fitted",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "GFR fraction",
+              "Value": 1.1591081815,
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from 'Parameter Identification 1' on 2020-01-13 15:01"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "IrreversibleInhibition",
+          "DataSource": "MBI",
+          "Molecule": "CYP3A4",
+          "Parameters": [
+            {
+              "Name": "kinact",
+              "Value": 0.0296261146,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from 'Parameter Identification 1' on 2020-01-13 15:01"
+              }
+            },
+            {
+              "Name": "K_kinact_half",
+              "Value": 7.6007360452,
+              "Unit": "µmol/l",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from 'Parameter Identification 1' on 2020-01-13 15:01"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "ActiveTransportSpecific_MM",
+          "DataSource": "fitted",
+          "Molecule": "OATP1B1",
+          "Parameters": [
+            {
+              "Name": "Transporter concentration",
+              "Value": 1.0,
+              "Unit": "µmol/l"
+            },
+            {
+              "Name": "Vmax",
+              "Value": 11.66,
+              "Unit": "pmol/ml/min",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "InVitro",
+                "Description": "PMID: 22990751"
+              }
+            },
+            {
+              "Name": "Km",
+              "Value": 0.735836485,
+              "Unit": "µmol/l",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from 'Parameter Identification 1' on 2020-01-13 15:01"
+              }
+            },
+            {
+              "Name": "kcat",
+              "Value": 1.350032201,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from 'Parameter Identification 1' on 2020-01-13 15:01"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "LiverClearance",
+          "DataSource": "fitted",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "Fraction unbound (experiment)",
+              "Value": 0.305
+            },
+            {
+              "Name": "Lipophilicity (experiment)",
+              "Value": 2.48,
+              "Unit": "Log Units"
+            },
+            {
+              "Name": "Plasma clearance",
+              "Value": 0.0,
+              "Unit": "ml/min/kg"
+            },
+            {
+              "Name": "Specific clearance",
+              "Value": 4.1462183378,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from 'Parameter Identification 1' on 2020-01-13 15:01"
+              }
+            }
+          ]
+        }
+      ],
+      "CalculationMethods": [
+        "Cellular partition coefficient method - Rodgers and Rowland",
+        "Cellular permeability - Charge dependent Schmitt"
+      ],
+      "Parameters": [
+        {
+          "Name": "Molecular weight",
+          "Value": 733.927,
+          "Unit": "g/mol",
+          "ValueOrigin": {
+            "Source": "Internet",
+            "Description": "drugbank.ca"
+          }
+        }
+      ]
+    },
+    {
+      "Name": "Sildenafil",
+      "IsSmallMolecule": true,
+      "PlasmaProteinBindingPartner": "Glycoprotein",
+      "Lipophilicity": [
+        {
+          "Name": "Measurement",
+          "Parameters": [
+            {
+              "Name": "Lipophilicity",
+              "Value": 2.8411110506,
+              "Unit": "Log Units",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from 'PI_All_DissoKineticFit' on 2022-08-12 15:40"
+              }
+            }
+          ]
+        }
+      ],
+      "FractionUnbound": [
+        {
+          "Name": "Measurement",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "Fraction unbound (plasma, reference value)",
+              "Value": 0.04,
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from 'PI_All_DissoKineticFit' on 2022-08-12 15:40"
+              }
+            }
+          ]
+        }
+      ],
+      "Solubility": [
+        {
+          "Name": "Measurement",
+          "Parameters": [
+            {
+              "Name": "Solubility at reference pH",
+              "Value": 3.5,
+              "Unit": "mg/l",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Description": "Salerno 2021"
+              }
+            },
+            {
+              "Name": "Reference pH",
+              "Value": 7.0,
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Description": "Salerno 2021"
+              }
+            }
+          ]
+        },
+        {
+          "Name": "Oral solution",
+          "IsDefault": false,
+          "Parameters": [
+            {
+              "Name": "Solubility at reference pH",
+              "Value": 100.0,
+              "Unit": "mg/l",
+              "ValueOrigin": {
+                "Source": "Other",
+                "Method": "Assumption"
+              }
+            },
+            {
+              "Name": "Reference pH",
+              "Value": 7.0,
+              "ValueOrigin": {
+                "Source": "Other",
+                "Method": "Assumption"
+              }
+            }
+          ]
+        }
+      ],
+      "IntestinalPermeability": [
+        {
+          "Name": "Optimized",
+          "Parameters": [
+            {
+              "Name": "Specific intestinal permeability (transcellular)",
+              "Value": 0.00044843836067,
+              "Unit": "cm/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from 'PI_All_DissoKineticFit' on 2022-08-12 15:40"
+              }
+            }
+          ]
+        }
+      ],
+      "Permeability": [
+        {
+          "Name": "Optimized",
+          "Parameters": [
+            {
+              "Name": "Permeability",
+              "Value": 0.0758702742,
+              "Unit": "cm/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from 'PI_All_DissoKineticFit' on 2022-08-12 15:40"
+              }
+            }
+          ]
+        }
+      ],
+      "PkaTypes": [
+        {
+          "Type": "Base",
+          "Pka": 5.97,
+          "ValueOrigin": {
+            "Source": "Publication",
+            "Description": "Salerno 2021"
+          }
+        }
+      ],
+      "Processes": [
+        {
+          "InternalName": "rCYP450_MM",
+          "DataSource": "Warrington",
+          "Molecule": "CYP2C19",
+          "Parameters": [
+            {
+              "Name": "In vitro Vmax/recombinant enzyme",
+              "Value": 0.01009105,
+              "Unit": "pmol/min/pmol rec. enzyme",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Description": "Warrington 2000"
+              }
+            },
+            {
+              "Name": "Km",
+              "Value": 23.1,
+              "Unit": "µmol/l",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Description": "Warrington 2000"
+              }
+            },
+            {
+              "Name": "kcat",
+              "Value": 1.777778489,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from 'PI_All_DissoKineticFit' on 2022-08-12 15:40"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "rCYP450_MM",
+          "DataSource": "Warrington",
+          "Molecule": "CYP2C9",
+          "Parameters": [
+            {
+              "Name": "In vitro Vmax/recombinant enzyme",
+              "Value": 0.02,
+              "Unit": "pmol/min/pmol rec. enzyme",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Description": "Warrington 2000"
+              }
+            },
+            {
+              "Name": "Km",
+              "Value": 9.6,
+              "Unit": "µmol/l",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Description": "Warrington 2000"
+              }
+            },
+            {
+              "Name": "kcat",
+              "Value": 3.5234757314,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from 'PI_All_DissoKineticFit' on 2022-08-12 15:40"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "rCYP450_MM",
+          "DataSource": "Warrington",
+          "Molecule": "CYP3A4",
+          "Parameters": [
+            {
+              "Name": "In vitro Vmax/recombinant enzyme",
+              "Value": 0.16918611,
+              "Unit": "pmol/min/pmol rec. enzyme",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Description": "Warrington 2000"
+              }
+            },
+            {
+              "Name": "Km",
+              "Value": 23.1,
+              "Unit": "µmol/l",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Description": "Warrington 2000"
+              }
+            },
+            {
+              "Name": "kcat",
+              "Value": 29.8061576339,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from 'PI_All_DissoKineticFit' on 2022-08-12 15:40"
+              }
+            }
+          ]
+        }
+      ],
+      "CalculationMethods": [
+        "Cellular partition coefficient method - Rodgers and Rowland",
+        "Cellular permeability - PK-Sim Standard"
+      ],
+      "Parameters": [
+        {
+          "Name": "Molecular weight",
+          "Value": 474.58,
+          "Unit": "g/mol",
+          "ValueOrigin": {
+            "Source": "Internet",
+            "Description": "DrugBank DB00203"
+          }
+        }
+      ]
+    }
+  ],
+  "Formulations": [
+    {
+      "Name": "Sildenafil Tablet",
+      "FormulationType": "Formulation_Tablet_Weibull",
+      "Parameters": [
+        {
+          "Name": "Dissolution time (50% dissolved)",
+          "Value": 4.164698,
+          "Unit": "min",
+          "ValueOrigin": {
+            "Source": "ParameterIdentification",
+            "Method": "ParameterIdentification",
+            "Description": "Value updated from 'PI_All_DissoKineticFit' on 2022-08-12 15:40"
+          }
+        },
+        {
+          "Name": "Lag time",
+          "Value": 0.0,
+          "Unit": "min"
+        },
+        {
+          "Name": "Dissolution shape",
+          "Value": 1.37405,
+          "ValueOrigin": {
+            "Source": "ParameterIdentification",
+            "Method": "ParameterIdentification",
+            "Description": "Value updated from 'PI_All_DissoKineticFit' on 2022-08-12 15:40"
+          }
+        },
+        {
+          "Name": "Use as suspension",
+          "Value": 1.0
+        }
+      ]
+    },
+    {
+      "Name": "Erythromycin_Weibull_filmtablet",
+      "FormulationType": "Formulation_Tablet_Weibull",
+      "Parameters": [
+        {
+          "Name": "Dissolution time (50% dissolved)",
+          "Value": 1.7038947098,
+          "Unit": "min",
+          "ValueOrigin": {
+            "Source": "ParameterIdentification",
+            "Method": "ParameterIdentification",
+            "Description": "Value updated from 'Parameter Identification 1' on 2020-01-13 15:01"
+          }
+        },
+        {
+          "Name": "Lag time",
+          "Value": 0.0,
+          "Unit": "min",
+          "ValueOrigin": {
+            "Source": "Other",
+            "Method": "Assumption"
+          }
+        },
+        {
+          "Name": "Dissolution shape",
+          "Value": 1.0960212213,
+          "ValueOrigin": {
+            "Source": "ParameterIdentification",
+            "Method": "ParameterIdentification",
+            "Description": "Value updated from 'Parameter Identification 1' on 2020-01-13 15:01"
+          }
+        },
+        {
+          "Name": "Use as suspension",
+          "Value": 1.0
+        }
+      ]
+    }
+  ],
+  "Protocols": [
+    {
+      "Name": "Muirhead2002_Treatment_Erythromycin_PO_500mg_BID",
+      "DosingInterval": "Single",
+      "Schemas": [
+        {
+          "Name": "Schema 1",
+          "SchemaItems": [
+            {
+              "Name": "Schema Item 1",
+              "ApplicationType": "Oral",
+              "FormulationKey": "Formulation",
+              "Parameters": [
+                {
+                  "Name": "Start time",
+                  "Value": 0.0,
+                  "Unit": "h"
+                },
+                {
+                  "Name": "InputDose",
+                  "Value": 500.0,
+                  "Unit": "mg"
+                },
+                {
+                  "Name": "Volume of water/body weight",
+                  "Value": 3.5,
+                  "Unit": "ml/kg"
+                }
+              ]
+            }
+          ],
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "NumberOfRepetitions",
+              "Value": 10.0,
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "TimeBetweenRepetitions",
+              "Value": 12.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            }
+          ]
+        }
+      ],
+      "TimeUnit": "h"
+    },
+    {
+      "Name": "Muirhead2002_Treatment_Sildenafil_PO_100mg_97h",
+      "DosingInterval": "Single",
+      "Schemas": [
+        {
+          "Name": "Schema 1",
+          "SchemaItems": [
+            {
+              "Name": "Schema Item 1",
+              "ApplicationType": "Oral",
+              "FormulationKey": "Formulation",
+              "Parameters": [
+                {
+                  "Name": "Start time",
+                  "Value": 0.0,
+                  "Unit": "h"
+                },
+                {
+                  "Name": "InputDose",
+                  "Value": 100.0,
+                  "Unit": "mg"
+                },
+                {
+                  "Name": "Volume of water/body weight",
+                  "Value": 3.5,
+                  "Unit": "ml/kg"
+                }
+              ]
+            }
+          ],
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 97.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "NumberOfRepetitions",
+              "Value": 1.0
+            },
+            {
+              "Name": "TimeBetweenRepetitions",
+              "Value": 0.0,
+              "Unit": "h"
+            }
+          ]
+        }
+      ],
+      "TimeUnit": "h"
+    },
+    {
+      "Name": "Muirhead2002_Control_Sildenafil_PO_100mg",
+      "DosingInterval": "Single",
+      "Schemas": [
+        {
+          "Name": "Schema 1",
+          "SchemaItems": [
+            {
+              "Name": "Schema Item 1",
+              "ApplicationType": "Oral",
+              "FormulationKey": "Formulation",
+              "Parameters": [
+                {
+                  "Name": "Start time",
+                  "Value": 0.0,
+                  "Unit": "h"
+                },
+                {
+                  "Name": "InputDose",
+                  "Value": 100.0,
+                  "Unit": "mg"
+                },
+                {
+                  "Name": "Volume of water/body weight",
+                  "Value": 3.5,
+                  "Unit": "ml/kg"
+                }
+              ]
+            }
+          ],
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "NumberOfRepetitions",
+              "Value": 1.0
+            },
+            {
+              "Name": "TimeBetweenRepetitions",
+              "Value": 0.0,
+              "Unit": "h"
+            }
+          ]
+        }
+      ],
+      "TimeUnit": "h"
+    }
+  ],
+  "Simulations": [
+    {
+      "Name": "Muirhead2002_Control",
+      "Model": "4Comp",
+      "ObservedData": [
+        "Muirhead 2002a - Erythromycin DDI, control group, D1 - Sildenafil - PO - 100 mg - Plasma - agg. (n=13)"
+      ],
+      "Solver": {},
+      "OutputSchema": [
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "End time",
+              "Value": 2.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Resolution",
+              "Value": 20.0,
+              "Unit": "pts/h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            }
+          ]
+        },
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 2.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "End time",
+              "Value": 24.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "Resolution",
+              "Value": 4.0,
+              "Unit": "pts/h"
+            }
+          ]
+        }
+      ],
+      "Parameters": [
+        {
+          "Path": "Applications|Muirhead2002_Control_Sildenafil_PO_100mg|Sildenafil Tablet|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Neighborhoods|Caecum_int_Caecum_cell|Sildenafil|P (interstitial->intracellular)",
+          "Value": 0.0017810360334,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|Caecum_int_Caecum_cell|Sildenafil|P (intracellular->interstitial)",
+          "Value": 0.0017810360334,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|ColonAscendens_int_ColonAscendens_cell|Sildenafil|P (interstitial->intracellular)",
+          "Value": 0.0017810360334,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|ColonAscendens_int_ColonAscendens_cell|Sildenafil|P (intracellular->interstitial)",
+          "Value": 0.0017810360334,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|ColonDescendens_int_ColonDescendens_cell|Sildenafil|P (interstitial->intracellular)",
+          "Value": 0.0017810360334,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|ColonDescendens_int_ColonDescendens_cell|Sildenafil|P (intracellular->interstitial)",
+          "Value": 0.0017810360334,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|ColonSigmoid_int_ColonSigmoid_cell|Sildenafil|P (interstitial->intracellular)",
+          "Value": 0.0017810360334,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|ColonSigmoid_int_ColonSigmoid_cell|Sildenafil|P (intracellular->interstitial)",
+          "Value": 0.0017810360334,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|ColonTransversum_int_ColonTransversum_cell|Sildenafil|P (interstitial->intracellular)",
+          "Value": 0.0017810360334,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|ColonTransversum_int_ColonTransversum_cell|Sildenafil|P (intracellular->interstitial)",
+          "Value": 0.0017810360334,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|Duodenum_int_Duodenum_cell|Sildenafil|P (interstitial->intracellular)",
+          "Value": 0.0017810360334,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|Duodenum_int_Duodenum_cell|Sildenafil|P (intracellular->interstitial)",
+          "Value": 0.0017810360334,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|LowerIleum_int_LowerIleum_cell|Sildenafil|P (interstitial->intracellular)",
+          "Value": 0.0017810360334,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|LowerIleum_int_LowerIleum_cell|Sildenafil|P (intracellular->interstitial)",
+          "Value": 0.0017810360334,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|LowerJejunum_int_LowerJejunum_cell|Sildenafil|P (interstitial->intracellular)",
+          "Value": 0.0017810360334,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|LowerJejunum_int_LowerJejunum_cell|Sildenafil|P (intracellular->interstitial)",
+          "Value": 0.0017810360334,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|Rectum_int_Rectum_cell|Sildenafil|P (interstitial->intracellular)",
+          "Value": 0.0017810360334,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|Rectum_int_Rectum_cell|Sildenafil|P (intracellular->interstitial)",
+          "Value": 0.0017810360334,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|UpperIleum_int_UpperIleum_cell|Sildenafil|P (interstitial->intracellular)",
+          "Value": 0.0017810360334,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|UpperIleum_int_UpperIleum_cell|Sildenafil|P (intracellular->interstitial)",
+          "Value": 0.0017810360334,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|UpperJejunum_int_UpperJejunum_cell|Sildenafil|P (interstitial->intracellular)",
+          "Value": 0.0017810360334,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|UpperJejunum_int_UpperJejunum_cell|Sildenafil|P (intracellular->interstitial)",
+          "Value": 0.0017810360334,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        }
+      ],
+      "OutputSelections": [
+        "Organism|PeripheralVenousBlood|Sildenafil|Plasma (Peripheral Venous Blood)"
+      ],
+      "OutputMappings": [
+        {
+          "Scaling": "Log",
+          "Path": "Muirhead2002_Control|Organism|PeripheralVenousBlood|Sildenafil|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "Muirhead 2002a - Erythromycin DDI, control group, D1 - Sildenafil - PO - 100 mg - Plasma - agg. (n=13)"
+        }
+      ],
+      "Individual": "European (P-gp modified, CYP3A4 36 h)",
+      "Compounds": [
+        {
+          "Name": "Sildenafil",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Rodgers and Rowland",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "Measurement",
+              "GroupName": "COMPOUND_SOLUBILITY"
+            },
+            {
+              "AlternativeName": "Optimized",
+              "GroupName": "COMPOUND_PERMEABILITY"
+            },
+            {
+              "AlternativeName": "Optimized",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "Name": "CYP3A4-Warrington",
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "MoleculeName": "AADAC"
+            },
+            {
+              "MoleculeName": "UGT1A4"
+            },
+            {
+              "Name": "CYP2C9-Warrington",
+              "MoleculeName": "CYP2C9"
+            },
+            {
+              "Name": "CYP2C19-Warrington",
+              "MoleculeName": "CYP2C19"
+            }
+          ],
+          "Protocol": {
+            "Name": "Muirhead2002_Control_Sildenafil_PO_100mg",
+            "Formulations": [
+              {
+                "Name": "Sildenafil Tablet",
+                "Key": "Formulation"
+              }
+            ]
+          }
+        }
+      ],
+      "HasResults": true,
+      "IndividualAnalyses": [
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "ng/ml",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Log",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "Sildenafil-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Muirhead2002_Control|Organism|PeripheralVenousBlood|Sildenafil|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 3
+              }
+            },
+            {
+              "Name": "Muirhead 2002a - Erythromycin DDI, control group, D1 - Sildenafil - PO - 100 mg - Plasma - agg. (n=13)-Sildenafil-Peripheral Venous Blood-Plasma-ArithmeticMean",
+              "X": "Muirhead 2002a - Erythromycin DDI, control group, D1 - Sildenafil - PO - 100 mg - Plasma - agg. (n=13)|Time",
+              "Y": "Muirhead 2002a - Erythromycin DDI, control group, D1 - Sildenafil - PO - 100 mg - Plasma - agg. (n=13)|ObservedData|Peripheral Venous Blood|Plasma|Sildenafil|ArithmeticMean",
+              "CurveOptions": {
+                "Color": "#0000FF",
+                "LegendIndex": 2,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Time Profile Analysis",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "None",
+            "BackColor": "#FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "Erythromycin-Sildenafil-DDI\nMuirhead2002_Control\n2023-11-28 18:24"
+        }
+      ]
+    },
+    {
+      "Name": "Muirhead2002_Treatment",
+      "Model": "4Comp",
+      "ObservedData": [
+        "Muirhead 2002a - Erythromycin DDI, treatment group, D6 - Sildenafil - PO - 100 mg - Plasma - agg. (n=13)"
+      ],
+      "Solver": {},
+      "OutputSchema": [
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "End time",
+              "Value": 97.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Resolution",
+              "Value": 4.0,
+              "Unit": "pts/h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            }
+          ]
+        },
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 97.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "End time",
+              "Value": 99.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Resolution",
+              "Value": 20.0,
+              "Unit": "pts/h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            }
+          ]
+        },
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 99.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "End time",
+              "Value": 121.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Resolution",
+              "Value": 4.0,
+              "Unit": "pts/h"
+            }
+          ]
+        }
+      ],
+      "Parameters": [
+        {
+          "Path": "Applications|Muirhead2002_Treatment_Erythromycin_PO_500mg_BID|Erythromycin_Weibull_filmtablet|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Muirhead2002_Treatment_Erythromycin_PO_500mg_BID|Erythromycin_Weibull_filmtablet|Application_10|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Muirhead2002_Treatment_Erythromycin_PO_500mg_BID|Erythromycin_Weibull_filmtablet|Application_2|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Muirhead2002_Treatment_Erythromycin_PO_500mg_BID|Erythromycin_Weibull_filmtablet|Application_3|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Muirhead2002_Treatment_Erythromycin_PO_500mg_BID|Erythromycin_Weibull_filmtablet|Application_4|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Muirhead2002_Treatment_Erythromycin_PO_500mg_BID|Erythromycin_Weibull_filmtablet|Application_5|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Muirhead2002_Treatment_Erythromycin_PO_500mg_BID|Erythromycin_Weibull_filmtablet|Application_6|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Muirhead2002_Treatment_Erythromycin_PO_500mg_BID|Erythromycin_Weibull_filmtablet|Application_7|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Muirhead2002_Treatment_Erythromycin_PO_500mg_BID|Erythromycin_Weibull_filmtablet|Application_8|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Muirhead2002_Treatment_Erythromycin_PO_500mg_BID|Erythromycin_Weibull_filmtablet|Application_9|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Muirhead2002_Treatment_Sildenafil_PO_100mg_97h|Sildenafil Tablet|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Neighborhoods|Caecum_int_Caecum_cell|Sildenafil|P (interstitial->intracellular)",
+          "Value": 0.0017810360334,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|Caecum_int_Caecum_cell|Sildenafil|P (intracellular->interstitial)",
+          "Value": 0.0017810360334,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|ColonAscendens_int_ColonAscendens_cell|Sildenafil|P (interstitial->intracellular)",
+          "Value": 0.0017810360334,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|ColonAscendens_int_ColonAscendens_cell|Sildenafil|P (intracellular->interstitial)",
+          "Value": 0.0017810360334,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|ColonDescendens_int_ColonDescendens_cell|Sildenafil|P (interstitial->intracellular)",
+          "Value": 0.0017810360334,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|ColonDescendens_int_ColonDescendens_cell|Sildenafil|P (intracellular->interstitial)",
+          "Value": 0.0017810360334,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|ColonSigmoid_int_ColonSigmoid_cell|Sildenafil|P (interstitial->intracellular)",
+          "Value": 0.0017810360334,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|ColonSigmoid_int_ColonSigmoid_cell|Sildenafil|P (intracellular->interstitial)",
+          "Value": 0.0017810360334,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|ColonTransversum_int_ColonTransversum_cell|Sildenafil|P (interstitial->intracellular)",
+          "Value": 0.0017810360334,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|ColonTransversum_int_ColonTransversum_cell|Sildenafil|P (intracellular->interstitial)",
+          "Value": 0.0017810360334,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|Duodenum_int_Duodenum_cell|Sildenafil|P (interstitial->intracellular)",
+          "Value": 0.0017810360334,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|Duodenum_int_Duodenum_cell|Sildenafil|P (intracellular->interstitial)",
+          "Value": 0.0017810360334,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|LowerIleum_int_LowerIleum_cell|Sildenafil|P (interstitial->intracellular)",
+          "Value": 0.0017810360334,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|LowerIleum_int_LowerIleum_cell|Sildenafil|P (intracellular->interstitial)",
+          "Value": 0.0017810360334,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|LowerJejunum_int_LowerJejunum_cell|Sildenafil|P (interstitial->intracellular)",
+          "Value": 0.0017810360334,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|LowerJejunum_int_LowerJejunum_cell|Sildenafil|P (intracellular->interstitial)",
+          "Value": 0.0017810360334,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|Rectum_int_Rectum_cell|Sildenafil|P (interstitial->intracellular)",
+          "Value": 0.0017810360334,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|Rectum_int_Rectum_cell|Sildenafil|P (intracellular->interstitial)",
+          "Value": 0.0017810360334,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|UpperIleum_int_UpperIleum_cell|Sildenafil|P (interstitial->intracellular)",
+          "Value": 0.0017810360334,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|UpperIleum_int_UpperIleum_cell|Sildenafil|P (intracellular->interstitial)",
+          "Value": 0.0017810360334,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|UpperJejunum_int_UpperJejunum_cell|Sildenafil|P (interstitial->intracellular)",
+          "Value": 0.0017810360334,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|UpperJejunum_int_UpperJejunum_cell|Sildenafil|P (intracellular->interstitial)",
+          "Value": 0.0017810360334,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Undefined Liver|Reference concentration",
+          "Value": 1.0,
+          "Unit": "µmol/l"
+        },
+        {
+          "Path": "Undefined Liver|t1/2 (intestine)",
+          "Value": 1380.0,
+          "Unit": "min"
+        },
+        {
+          "Path": "Undefined Liver|t1/2 (liver)",
+          "Value": 2160.0,
+          "Unit": "min"
+        }
+      ],
+      "OutputSelections": [
+        "Organism|PeripheralVenousBlood|Erythromycin|Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|Sildenafil|Plasma (Peripheral Venous Blood)"
+      ],
+      "OutputMappings": [
+        {
+          "Scaling": "Log",
+          "Path": "Muirhead2002_Treatment|Organism|PeripheralVenousBlood|Sildenafil|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "Muirhead 2002a - Erythromycin DDI, treatment group, D6 - Sildenafil - PO - 100 mg - Plasma - agg. (n=13)"
+        }
+      ],
+      "Individual": "European (P-gp modified, CYP3A4 36 h)",
+      "Compounds": [
+        {
+          "Name": "Erythromycin",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Rodgers and Rowland",
+            "Cellular permeability - Charge dependent Schmitt"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "Erythromycin stearate film-coated tablet",
+              "GroupName": "COMPOUND_SOLUBILITY"
+            },
+            {
+              "AlternativeName": "Fitted",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "Name": "CYP3A4-Biotransformation_fitted",
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "MoleculeName": "AADAC"
+            },
+            {
+              "MoleculeName": "UGT1A4"
+            },
+            {
+              "MoleculeName": "CYP2C9"
+            },
+            {
+              "MoleculeName": "CYP2C19"
+            },
+            {
+              "Name": "Total Hepatic Clearance-fitted",
+              "SystemicProcessType": "Hepatic"
+            },
+            {
+              "MoleculeName": "P-gp"
+            },
+            {
+              "Name": "OATP1B1-fitted",
+              "MoleculeName": "OATP1B1"
+            },
+            {
+              "Name": "Glomerular Filtration-fitted",
+              "SystemicProcessType": "GFR"
+            }
+          ],
+          "Protocol": {
+            "Name": "Muirhead2002_Treatment_Erythromycin_PO_500mg_BID",
+            "Formulations": [
+              {
+                "Name": "Erythromycin_Weibull_filmtablet",
+                "Key": "Formulation"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Sildenafil",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Rodgers and Rowland",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "Measurement",
+              "GroupName": "COMPOUND_SOLUBILITY"
+            },
+            {
+              "AlternativeName": "Optimized",
+              "GroupName": "COMPOUND_PERMEABILITY"
+            },
+            {
+              "AlternativeName": "Optimized",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "Name": "CYP3A4-Warrington",
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "MoleculeName": "AADAC"
+            },
+            {
+              "MoleculeName": "UGT1A4"
+            },
+            {
+              "Name": "CYP2C9-Warrington",
+              "MoleculeName": "CYP2C9"
+            },
+            {
+              "Name": "CYP2C19-Warrington",
+              "MoleculeName": "CYP2C19"
+            }
+          ],
+          "Protocol": {
+            "Name": "Muirhead2002_Treatment_Sildenafil_PO_100mg_97h",
+            "Formulations": [
+              {
+                "Name": "Sildenafil Tablet",
+                "Key": "Formulation"
+              }
+            ]
+          }
+        }
+      ],
+      "HasResults": true,
+      "IndividualAnalyses": [
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µg/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Log",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "Erythromycin-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Muirhead2002_Treatment|Organism|PeripheralVenousBlood|Erythromycin|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 1
+              }
+            },
+            {
+              "Name": "Sildenafil-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Muirhead2002_Treatment|Organism|PeripheralVenousBlood|Sildenafil|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#0000FF",
+                "LegendIndex": 2
+              }
+            },
+            {
+              "Name": "Muirhead 2002a - Erythromycin DDI, treatment group, D6 - Sildenafil - PO - 100 mg - Plasma - agg. (n=13)-Sildenafil-Peripheral Venous Blood-Plasma-ArithmeticMean",
+              "X": "Muirhead 2002a - Erythromycin DDI, treatment group, D6 - Sildenafil - PO - 100 mg - Plasma - agg. (n=13)|Time",
+              "Y": "Muirhead 2002a - Erythromycin DDI, treatment group, D6 - Sildenafil - PO - 100 mg - Plasma - agg. (n=13)|ObservedData|Peripheral Venous Blood|Plasma|Sildenafil|ArithmeticMean",
+              "CurveOptions": {
+                "Color": "#0000FF",
+                "LegendIndex": 3,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Time Profile Analysis",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "RightInside",
+            "BackColor": "#00FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "Erythromycin-Sildenafil-DDI\nMuirhead2002_Treatment\n2023-11-28 19:47"
+        }
+      ],
+      "Interactions": [
+        {
+          "Name": "CYP3A4-MBI",
+          "MoleculeName": "CYP3A4",
+          "CompoundName": "Erythromycin"
+        }
+      ]
+    }
+  ],
+  "ObservedData": [
+    {
+      "Name": "Muirhead 2002a - Erythromycin DDI, control group, D1 - Sildenafil - PO - 100 mg - Plasma - agg. (n=13)",
+      "ExtendedProperties": [
+        {
+          "Name": "DB Version",
+          "Value": "OSP DATABASE",
+          "Type": "String"
+        },
+        {
+          "Name": "ID",
+          "Value": 16070.0,
+          "Type": "Double"
+        },
+        {
+          "Name": "Study Id",
+          "Value": "Muirhead 2002a",
+          "Type": "String"
+        },
+        {
+          "Name": "Reference",
+          "Value": "https://pubmed.ncbi.nlm.nih.gov/11879258/",
+          "Type": "String"
+        },
+        {
+          "Name": "Source",
+          "Value": "Fig. 1",
+          "Type": "String"
+        },
+        {
+          "Name": "Grouping",
+          "Value": "Erythromycin DDI, control group, D1",
+          "Type": "String"
+        },
+        {
+          "Name": "Data type",
+          "Value": "aggregated",
+          "Type": "String"
+        },
+        {
+          "Name": "N",
+          "Value": 13.0,
+          "Type": "Double"
+        },
+        {
+          "Name": "Molecule",
+          "Value": "Sildenafil",
+          "Type": "String"
+        },
+        {
+          "Name": "Species",
+          "Value": "Human",
+          "Type": "String"
+        },
+        {
+          "Name": "Organ",
+          "Value": "Peripheral Venous Blood",
+          "Type": "String"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Plasma",
+          "Type": "String"
+        },
+        {
+          "Name": "Route",
+          "Value": "PO",
+          "Type": "String"
+        },
+        {
+          "Name": "Dose",
+          "Value": "100 mg",
+          "Type": "String"
+        },
+        {
+          "Name": "Times of Administration [h]",
+          "Value": 0.0,
+          "Type": "Double"
+        },
+        {
+          "Name": "Formulation",
+          "Value": "Tablet",
+          "Type": "String"
+        },
+        {
+          "Name": "Food state",
+          "Value": "Fed",
+          "Type": "String"
+        },
+        {
+          "Name": "Comment",
+          "Value": ".",
+          "Type": "String"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Avg",
+          "QuantityInfo": {
+            "Path": "Muirhead 2002a - Erythromycin DDI, control group, D1 - Sildenafil - PO - 100 mg - Plasma - agg. (n=13)|ObservedData|Peripheral Venous Blood|Plasma|Sildenafil|ArithmeticMean"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 474.58
+          },
+          "Values": [
+            451.900574,
+            530.7018,
+            443.85965,
+            370.687134,
+            290.277771,
+            239.619873,
+            127.046791,
+            63.5233955,
+            55.4824562,
+            29.7514629,
+            23.3187141
+          ],
+          "Dimension": "Concentration (mass)",
+          "Unit": "ng/ml"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time",
+        "QuantityInfo": {
+          "Path": "Muirhead 2002a - Erythromycin DDI, control group, D1 - Sildenafil - PO - 100 mg - Plasma - agg. (n=13)|Time",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          0.33,
+          1.0,
+          1.25,
+          2.0,
+          3.0,
+          4.0,
+          6.0,
+          10.0,
+          12.0,
+          18.0,
+          24.0
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    },
+    {
+      "Name": "Muirhead 2002a - Erythromycin DDI, treatment group, D6 - Sildenafil - PO - 100 mg - Plasma - agg. (n=13)",
+      "ExtendedProperties": [
+        {
+          "Name": "DB Version",
+          "Value": "OSP DATABASE",
+          "Type": "String"
+        },
+        {
+          "Name": "ID",
+          "Value": 16073.0,
+          "Type": "Double"
+        },
+        {
+          "Name": "Study Id",
+          "Value": "Muirhead 2002a",
+          "Type": "String"
+        },
+        {
+          "Name": "Reference",
+          "Value": "https://pubmed.ncbi.nlm.nih.gov/11879258/",
+          "Type": "String"
+        },
+        {
+          "Name": "Source",
+          "Value": "Fig. 1",
+          "Type": "String"
+        },
+        {
+          "Name": "Grouping",
+          "Value": "Erythromycin DDI, treatment group, D6",
+          "Type": "String"
+        },
+        {
+          "Name": "Data type",
+          "Value": "aggregated",
+          "Type": "String"
+        },
+        {
+          "Name": "N",
+          "Value": 13.0,
+          "Type": "Double"
+        },
+        {
+          "Name": "Molecule",
+          "Value": "Sildenafil",
+          "Type": "String"
+        },
+        {
+          "Name": "Species",
+          "Value": "Human",
+          "Type": "String"
+        },
+        {
+          "Name": "Organ",
+          "Value": "Peripheral Venous Blood",
+          "Type": "String"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Plasma",
+          "Type": "String"
+        },
+        {
+          "Name": "Route",
+          "Value": "PO",
+          "Type": "String"
+        },
+        {
+          "Name": "Dose",
+          "Value": "100 mg",
+          "Type": "String"
+        },
+        {
+          "Name": "Times of Administration [h]",
+          "Value": 120.0,
+          "Type": "Double"
+        },
+        {
+          "Name": "Formulation",
+          "Value": "Tablet",
+          "Type": "String"
+        },
+        {
+          "Name": "Food state",
+          "Value": "Fed",
+          "Type": "String"
+        },
+        {
+          "Name": "Comment",
+          "Value": ".",
+          "Type": "String"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Avg",
+          "QuantityInfo": {
+            "Path": "Muirhead 2002a - Erythromycin DDI, treatment group, D6 - Sildenafil - PO - 100 mg - Plasma - agg. (n=13)|ObservedData|Peripheral Venous Blood|Plasma|Sildenafil|ArithmeticMean"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 474.6
+          },
+          "Values": [
+            956.8713,
+            1113.66956,
+            953.654968,
+            786.4035,
+            614.3275,
+            563.6696,
+            257.309937,
+            171.271927,
+            86.8421,
+            61.11111,
+            53.8742676
+          ],
+          "Dimension": "Concentration (mass)",
+          "Unit": "µg/l"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time",
+        "QuantityInfo": {
+          "Path": "Muirhead 2002a - Erythromycin DDI, treatment group, D6 - Sildenafil - PO - 100 mg - Plasma - agg. (n=13)|Time",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          97.333,
+          97.666,
+          98.333,
+          99.0,
+          100.0,
+          101.0,
+          103.0,
+          107.0,
+          109.0,
+          115.0,
+          121.0
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    }
+  ]
+}
